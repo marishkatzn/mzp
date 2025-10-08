@@ -1,0 +1,13 @@
+package com.example.mzp.quiranteg3;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Quiranteg3ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
